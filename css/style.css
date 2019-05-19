@@ -1,0 +1,30 @@
+
+
+
+
+.hero{
+	background:url(../img/main.png)no-repeat;
+	width: 100%;
+	float: left;
+	background-size: cover;
+	    height: 667px;
+
+}
+
+.new{
+	background:url(../img/footer.png)no-repeat;
+	background-size: cover;
+
+}
+
+.one h1{
+	color: white;
+}
+.form-control{
+	margin-bottom: 100px;
+}
+
+.two h3{
+	color: grey;
+}
+@media(min-width: 0px) 
